@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "626916661311",
+    "project_id": "vocsy-cc-pro-fitness",
+    "storage_bucket": "vocsy-cc-pro-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626916661311:android:aa33140c5dc0a68102008a",
+        "android_client_info": {
+          "package_name": "com.vocsy.cc.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626916661311-5ssdedvj42irt4unfalg7esmsm22vbdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.cc.fitness",
+            "certificate_hash": "d3b657af1165d60a26f29db7b321b79238c0bdb8"
+          }
+        },
+        {
+          "client_id": "626916661311-osltagofqbvvr0b1kte2k2pdhar9e9qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.cc.fitness",
+            "certificate_hash": "8d2e7b2246aa245a68e8cbd5d988ade22e98ef05"
+          }
+        },
+        {
+          "client_id": "626916661311-7m2g6l7kopjmha5itul64fe7d4fk2kn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESrZR7eVzE3wN9CLd02TURr1A8HMdlLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626916661311-7m2g6l7kopjmha5itul64fe7d4fk2kn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626916661311-ambub1cc5dda3fje4p2g6jbrbs8aghk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vocsy.cc.fitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
